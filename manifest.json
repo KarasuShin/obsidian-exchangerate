@@ -1,11 +1,10 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "exchange-rate",
+	"name": "Exchange Rate",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Rates By Exchange Rate API (https://www.exchangerate-api.com)",
+	"author": "Karasu <karasu.shing@gmail.com>",
+	"authorUrl": "https://github.com/KarasuShin",
 	"isDesktopOnly": false
 }
