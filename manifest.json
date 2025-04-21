@@ -3,7 +3,7 @@
 	"name": "Exchange Rate",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Rates By Exchange Rate API (https://www.exchangerate-api.com)",
+	"description": "Fetching and converting exchange rates",
 	"author": "Karasu <karasu.shing@gmail.com>",
 	"authorUrl": "https://github.com/KarasuShin",
 	"isDesktopOnly": false
