@@ -4,7 +4,7 @@
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
 	"description": "Fetching and converting exchange rates",
-	"author": "Karasu <karasu.shing@gmail.com>",
+	"author": "Karasu",
 	"authorUrl": "https://github.com/KarasuShin",
 	"isDesktopOnly": false
 }
